@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Small Indexer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d991578d20897191b351f7a93aa2b23a963ecb41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fa6af897395d18fd25b4bed14ab8d611d6c8226")]
 [assembly: System.Reflection.AssemblyProductAttribute("Small Indexer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Small Indexer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

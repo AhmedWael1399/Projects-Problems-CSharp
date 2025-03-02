@@ -6,6 +6,11 @@
     <RootNamespace>Small_Indexer</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ApplicationIcon>indexer_HJa_icon.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="indexer_HJa_icon.ico" />
+  </ItemGroup>
 
 </Project>
