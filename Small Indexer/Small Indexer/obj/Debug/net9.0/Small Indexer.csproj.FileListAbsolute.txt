@@ -1,0 +1,15 @@
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\bin\Debug\net9.0\Small Indexer.exe
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\bin\Debug\net9.0\Small Indexer.deps.json
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\bin\Debug\net9.0\Small Indexer.runtimeconfig.json
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\bin\Debug\net9.0\Small Indexer.dll
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\bin\Debug\net9.0\Small Indexer.pdb
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\obj\Debug\net9.0\Small Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\obj\Debug\net9.0\Small Indexer.AssemblyInfoInputs.cache
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\obj\Debug\net9.0\Small Indexer.AssemblyInfo.cs
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\obj\Debug\net9.0\Small Indexer.csproj.CoreCompileInputs.cache
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\obj\Debug\net9.0\Small Indexer.sourcelink.json
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\obj\Debug\net9.0\Small Indexer.dll
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\obj\Debug\net9.0\refint\Small Indexer.dll
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\obj\Debug\net9.0\Small Indexer.pdb
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\obj\Debug\net9.0\Small Indexer.genruntimeconfig.cache
+D:\Work\Engineering Stuff\Projects\C# (Problem Solving)\Small Indexer\Small Indexer\obj\Debug\net9.0\ref\Small Indexer.dll

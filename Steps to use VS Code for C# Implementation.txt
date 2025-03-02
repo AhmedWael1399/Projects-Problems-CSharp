@@ -1,0 +1,11 @@
+*To Create a C# project in VS Code*
+1- Open terminal in the folder you want to create a project in
+2- Type "dotnet new console -o "name of your project"" 
+3- Type "cd "name of your project""
+4- Type "code ." and VS Code will run
+
+
+*To Compile and run project*
+1- Open a new terminal in VS Code
+2- Type "dotnet build" to build project
+3- Type "dotnet run" to run project
