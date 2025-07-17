@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LengthofLastWord/1.0.0": {
+        "runtime": {
+          "LengthofLastWord.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LengthofLastWord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
